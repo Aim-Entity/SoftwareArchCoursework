@@ -1,0 +1,87 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16">
+  <diagram id="0ve6190MAcytdyVdGA7s" name="Page-1">
+    <mxGraphModel dx="2328" dy="1310" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YjIH4yu_JcICC6uqc3TJ-1" value="Property Manager" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-147" y="-130" width="370" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="YjIH4yu_JcICC6uqc3TJ-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="YjIH4yu_JcICC6uqc3TJ-1" source="YjIH4yu_JcICC6uqc3TJ-3" target="YjIH4yu_JcICC6uqc3TJ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YjIH4yu_JcICC6uqc3TJ-3" value="View Detailed Page When Contractor Assinged" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="YjIH4yu_JcICC6uqc3TJ-1">
+          <mxGeometry x="114" y="49" width="162" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YjIH4yu_JcICC6uqc3TJ-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="YjIH4yu_JcICC6uqc3TJ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="132" y="202" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YjIH4yu_JcICC6uqc3TJ-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="YjIH4yu_JcICC6uqc3TJ-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="328" y="155" />
+            </Array>
+            <mxPoint x="148.94736842105272" y="218.94736842105272" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YjIH4yu_JcICC6uqc3TJ-6" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="YjIH4yu_JcICC6uqc3TJ-5">
+          <mxGeometry x="-0.4746" y="24" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YjIH4yu_JcICC6uqc3TJ-7" value="Click &#39;Remove Contractor" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="YjIH4yu_JcICC6uqc3TJ-1">
+          <mxGeometry x="124" y="172" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YjIH4yu_JcICC6uqc3TJ-10" value="Update UI To Remove Contractor And See Bids&amp;nbsp;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="YjIH4yu_JcICC6uqc3TJ-1">
+          <mxGeometry x="124" y="257" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YjIH4yu_JcICC6uqc3TJ-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="YjIH4yu_JcICC6uqc3TJ-1" source="YjIH4yu_JcICC6uqc3TJ-7" target="YjIH4yu_JcICC6uqc3TJ-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="458" y="173" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YjIH4yu_JcICC6uqc3TJ-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="YjIH4yu_JcICC6uqc3TJ-18" target="YjIH4yu_JcICC6uqc3TJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YjIH4yu_JcICC6uqc3TJ-18" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-315" y="-71" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="YjIH4yu_JcICC6uqc3TJ-23" value="Contractor" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="239" y="-130" width="370" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="YjIH4yu_JcICC6uqc3TJ-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="YjIH4yu_JcICC6uqc3TJ-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="132" y="202" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YjIH4yu_JcICC6uqc3TJ-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="YjIH4yu_JcICC6uqc3TJ-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="328" y="155" />
+            </Array>
+            <mxPoint x="148.94736842105272" y="218.94736842105272" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YjIH4yu_JcICC6uqc3TJ-28" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="YjIH4yu_JcICC6uqc3TJ-27">
+          <mxGeometry x="-0.4746" y="24" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YjIH4yu_JcICC6uqc3TJ-30" value="Update UI To Show Contractor No Longer On Job" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="YjIH4yu_JcICC6uqc3TJ-23">
+          <mxGeometry x="127" y="257" width="166" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YjIH4yu_JcICC6uqc3TJ-32" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="YjIH4yu_JcICC6uqc3TJ-10" target="YjIH4yu_JcICC6uqc3TJ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YjIH4yu_JcICC6uqc3TJ-33" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="638" y="135" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="YjIH4yu_JcICC6uqc3TJ-34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="YjIH4yu_JcICC6uqc3TJ-30" target="YjIH4yu_JcICC6uqc3TJ-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
